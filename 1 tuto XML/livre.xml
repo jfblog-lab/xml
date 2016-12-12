@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<bibliotheque>
+	<livres id="01">
+		<livre>
+			<titre>Mettre en oeuvre une base de données noSQL</titre>
+			<auteurs>
+				<auteur>Rudi Bruchez</auteur>
+			</auteurs>
+			<editeur>Eyrolles</editeur>
+			<description>L'auteur, expert, propose un panorama complet des bases NoSQL et complète son étude par un cas réel de mise en place de base de données. Il explique concrètement comment maintenir et superviser une base Not Only SQL.</description>
+		</livre>
+		<pages>300</pages>
+		<couverture scr="img/Mettre_en_oeuvre_une_base_de_données_noSQL.jpg" />
+		<prix>32,00 €</prix>
+		<edition>1ère édition</edition>
+		<parution>05/04/2013</parution>
+	</livres>
+
+	<livres id="02">
+		<livre>
+			<titre>Bien gérer sa réputation sur Internet</titre>
+			<auteurs>
+				<auteur>Anthony Babkine</auteur>
+				<auteur>Mounira Hamdi</auteur>
+				<auteur>Nabila Moumen</auteur>
+			</auteurs>
+			<editeur>Dunod</editeur>
+			<description>L'utilisation des réseaux sociaux par les internautes a explosé ces dernières années : les entreprises profitent de ce succès pour en apprendre toujours plus sur leurs futurs collaborateurs. Ainsi, Internet influe sur la réputation de chacun : réseaux sociaux, forums, blogs, wikis, mise en ligne de CV sont autant d'outils qui peuvent faciliter la valorisation d'un profil, d'une expérience, d'un savoir faire, de compétences ou, a contrario, les desservir pour ceux qui ne savent pas gérer leur réputation en ligne.
+Cet ouvrage décrit les démarches à suivre pour maîtriser et valoriser sa réputation numérique personnelle, illustrées de nombreux conseils, astuces, témoignages de recruteurs, formateurs, experts web 2.0 et réseaux sociaux.</description>
+		</livre>
+		<pages>176</pages>
+		<couverture scr="img/Bien_gerer_sa_reputation_sur_Internet.jpg" />
+		<prix>16,90 €</prix>
+		<edition>1ère édition</edition>
+		<parution>16/11/2011</parution>
+	</livres>
+
+	<livres id="03">
+		<livre>
+			<titre>Naruto - Volume 58</titre>
+			<auteurs>
+				<auteur>Masashi Kishimoto</auteur>
+			</auteurs>
+			<editeur>Kana</editeur>
+			<description>"Grâce à votre soutien, le dessin animé de Naruto a fêté ses dix ans au Japon en 2012. Je tiens à remercier infiniment toute l'équipe du dessin animé ! Et je voudrais également vous dire un grand merci à tous, chers lecteurs, qui lisez et soutenez Naruto ! Merci !!"
+Masashi Kishimoto</description>
+		</livre>
+		<pages>208</pages>
+		<couverture scr="img/Naruto_Volume_58.jpg" />
+		<prix>6,85 €</prix>
+		<edition>1ère édition</edition>
+		<parution>11/03/2013</parution>
+	</livres>
+</bibliotheque>

@@ -1,0 +1,14 @@
+<!ELEMENT bibliotheque (livres)>
+<!ELEMENT livres (livre, pages, couverture, prix, edition, parution)>
+<!ELEMENT livre (titre, auteurs, editeur, description)>
+<!ELEMENT auteurs (auteur+)>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT pages (#PCDATA)>
+<!ELEMENT couverture EMPTY>
+<!ELEMENT prix (#PCDATA)>
+<!ELEMENT edition (#PCDATA)>
+<!ELEMENT parution (#PCDATA)>
+<!ELEMENT editeur (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ATTLIST livres id #REQUIRED>
+<!ATTLIST couverture scr #REQUIRED>

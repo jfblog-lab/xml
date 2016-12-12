@@ -1,0 +1,39 @@
+#realisation h1{
+	margin : 10px;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+
+#realisation {	height: 100%;}
+
+#enligne{
+	width:800px;
+	margin: 20px auto 0 auto;
+}
+
+#enligne h2{
+	width: 40%;
+	font-size: 15px;
+	font-family:Verdana, serif;
+	padding-bottom: 2px;
+	text-align:center;
+	border-bottom: 1px solid black;
+}
+
+#enligne td{
+	padding-right: 10px;
+	text-align: justify;
+	font-size: 11pt;
+}
+
+#enligne img{
+	width: 300px;
+	border: 0;
+}
+
+#enligne a, #enligne a:link, #enligne a:hover{
+	color: blue;
+	font-family:times new roman, serif;
+	font-size: 13pt;
+}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<internet>
+	<site>
+		<id>5</id>
+		<type>Blog</type>
+		<titre>Blog Documentaire</titre>
+		<localisation>?</localisation>
+		<description>Les meilleurs documentaires du Web sur une seule plateforme en streaming. 1 documentaire par jour présentant un domaine en particulier.</description>
+		<poste>Administrateur</poste>
+		<outils>Wordpress, youtube, dailymotion</outils>
+		<langages>(X)html/css</langages>
+		<travail>Choix et modification du template. Intégration des vidéos</travail>
+		<url>http://documentairetv.jf-blog.fr/</url>
+		<nom_image>blog-docu.jpg</nom_image>
+	</site>
+	<site>
+		<id>4</id>
+		<type>Blog</type>
+		<titre>Blog Guillaume RICHARD</titre>
+		<localisation>?</localisation>
+		<description>Blog sur mes compétences en webmastering et en développement</description>
+		<poste>Développeur</poste>
+		<outils>Notepad++, Wordpress</outils>
+		<langages>(X)html/css, javascript, jQuery, PHP</langages>
+		<travail>Choix et modification du template. création et intégration des tutoriels vidéos, écriture des articles, etc...</travail>
+		<url>http://jf-blog.fr/</url>
+		<nom_image>blog-perso.jpg</nom_image>
+	</site>
+	<site>
+		<id>3</id>
+		<type>site vitrine</type>
+		<titre>At-home</titre>
+		<localisation>?</localisation>
+		<description>Site de test. test de création d'un site complet sous Wordpress en 1 journée</description>
+		<poste>Webmaster</poste>
+		<outils>Notepad++, photoshop, Wordpress, Google Map</outils>
+		<langages>(X)html/css, javascript, jQuery, PHP</langages>
+		<travail>Choix et modification d'un template existant pour coller au cahier des charges. Création des pages. Création d'une Google Map sur la page de contact, Référencement du site grâce au plugin "All in one SEO", petite animation du logo en JQuery</travail>
+		<url>http://at-home.guillaume-richard.fr/</url>
+		<nom_image>at-home.jpg</nom_image>
+	</site>
+	<site>
+		<id>2</id>
+		<type>site e-commerce</type>
+		<titre>Auditorium26</titre>
+		<localisation>Entreprise situé à Toulouse (Haute-Garonne)</localisation>
+		<description>Auditorium 26 est spécialisé dans la Hi-fi, la vidéo, le son, la sonorisation, etc...</description>
+		<poste>Webmaster</poste>
+		<outils>Notepad++, Gimp, Thinkro System</outils>
+		<langages>(X)html/css, javascript, jQuery</langages>
+		<travail>mise à jour de leur site e-commerce. proposition d'amélioration de leur site.</travail>
+		<url>http://www.auditorium26.com/</url>
+		<nom_image>auditorium26.jpg</nom_image>
+	</site>
+	<site>
+		<id>1</id>
+		<titre>Pioneer France</titre>
+		<type>site institutionnel</type>
+		<localisation>Entreprise situé à Aussonne (Haute-Garonne)</localisation>
+		<description>Pioneer France : maïs, tournesol, colza, additifs d'ensilage.</description>
+		<poste>Webmaster</poste>
+		<outils>DotNetNuke, Notepad++, Photoshop, Indesign, Google Analytics</outils>
+		<langages>(X)html/css, javascript</langages>
+		<travail>Gestion des sites Pioneer France, Espagnol et Portugais. Création de nouvelles fonctionnalités (Slideshow, Google Map, etc...)</travail>
+		<url>http://www.france.pioneer.com/</url>
+		<nom_image>pioneer-france.jpg</nom_image>
+	</site>
+</internet>
